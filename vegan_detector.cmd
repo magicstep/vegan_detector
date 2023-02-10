@@ -21,4 +21,4 @@ echo https://vbcamp.org Vegan Bootcamp, free challenge that will take you step-b
 echo https://veganoutreach.org/vegan
 
 pause >nul
-exit
+REM exit
